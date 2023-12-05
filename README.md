@@ -16,7 +16,7 @@ We will answer the following questions during our analysis:
 * Does market segment, customer type and meal affect cancellations?
 * How does the pricing differ per type? How does lead time affect correlation?
 
-##### Customer Overview: 
+__Customer Overview:__
 
 * Which hotel is most popular?
 * Where are the majority of customers coming from?
