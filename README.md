@@ -9,11 +9,11 @@ We want the hotel to improve its profit by being able to predict future cancella
 Booking Cancellations: What variables can we make analyze to better understand cancellations and how to prevent them in the future.
 We will answer the following questions during our analysis:
 * Which variables affect cancellations the most?
-* Which hotel has a higher count of cancellations? </ul>
-* Do certain countries have higher cancellation rates than others?</ul>
-* Which seasons or months tend to have the highest number of cancellations?</ul>
-* Does market segment, customer type and meal affect cancellations? </ul>
-* How does the pricing differ per type? How does lead time affect correlation?</ul>
+* Which hotel has a higher count of cancellations? 
+* Do certain countries have higher cancellation rates than others?
+* Which seasons or months tend to have the highest number of cancellations?
+* Does market segment, customer type and meal affect cancellations?
+* How does the pricing differ per type? How does lead time affect correlation?
 
 ##### Customer Overview: 
 * Which hotel is most popular?</ul>
