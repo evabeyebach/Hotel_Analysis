@@ -48,17 +48,17 @@ We will try to reveal hidden insights in the data and answer our research questi
 *  __Linear Regression Logistic Regression, Decision Tree or Random Forest__ to predict cancellation
 *  We will compare them to each other to see which one is the best
 
-##__Conclusion__:
+## __Conclusion__:
 
 * __previous_cancellations, is_repeated_guest, hotel and market_segment are the variables that most predict is_cancelled__
-* City Hotel has a higher Cancellation Ratio than Resort Hotel with 39.7%
-* Portugal has the highest number of cancellations.
-* Most booked monthd are August 11611, July and May. (Vacaction months). However, June has the highest cancellation ratio (0.713) followed by April and May.
+* __City Hotel__ has a __higher Cancellation Ratio__ than Resort Hotel with 39.7%
+* __Portugal__ has the highest number of cancellations.
+* Most booked monthd are August 11611, July and May. (Vacaction months). However, __June has the highest cancellation ratio (0.713)__ followed by April and May.
 * In July, August and September Resort Hotel has much higher prices and peak.
 * Distribution Channel `TA/TO` is doing a good job on making people book. However, they have a lot of cancellations.
 * The higher the lead time , the more cnacellations.
-* People with `Room Type A` has the highest cancellationn ratio with almost 60%
-* Only 3.5% of the customers are coming back. The ratio is very low.
+* People with __`Room Type A`__ has the highest cancellationn ratio with almost 60%
+* Only __3.5% of the customers are coming back__. The ratio is very low.
 
 
 
